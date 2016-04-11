@@ -23,8 +23,8 @@ def not_at_stopping_angle(current_angle, final_angle, delta):
 #-----------------------------------------------------------------------------#
 # Parameters
 #----------------------------------------------------------------------------#
-sample = 'B936_2'
-date = '160407'
+sample = 'B936_1'
+date = '160408'
 temp = '295'  # Kelvin
 field_strength = '2000'  # Gauss
 rotate_there_and_back = False
